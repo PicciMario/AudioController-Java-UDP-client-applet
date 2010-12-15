@@ -1,0 +1,7 @@
+AudioController
+
+A java applet/application designed (but never used) to control an hardware device via UDP packets.
+
+Built around a queue of UDP messages dispatched by a thread and pushed by custom UI elements, with optional wait for acknowledge.
+
+Included a VERY simple java UDP server to simulate communications between the applet and the hardware. 
